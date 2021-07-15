@@ -1,7 +1,4 @@
 #******** loading Packages ********
-library(rsconnect) #to connect to shinyapps.io. (to allows to share shiny app)
-
-
 library(RColorBrewer)
 library(reactable)
 library(shinyjs)
