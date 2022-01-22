@@ -1,6 +1,6 @@
 # Odon-Analytics
 
-Web Odon Analytics is an application that allows to analyze the evolution of the temperature of the river Odon (Normandy/France).
-The temperatures are received by 4 probes.
+Web Odon Analytics est une application qui permet d'analyser l'évolution de la température de la rivière Odon (Normandie/France). 
+Les températures sont reçues par 4 sondes.
 
-Launch App : https://smd-lab-tech.shinyapps.io/web_odon_analytics
+Lancer l'application : https://smd-lab-tech.shinyapps.io/web_odon_analytics
