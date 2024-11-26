@@ -1,5 +1,5 @@
-﻿"Titre de tracé : 816"
-"#","Date","Heure, GMT+02:00","Temp., °C (LGR S/N: 9762816_duplicate_duplicate, SEN S/N: 9762816)"
+﻿Titre de tracé : 816
+Id,Date,Heure_GMT_plus2h,Temp
 1,30/03/2011,16:00:00,22.321
 2,30/03/2011,18:00:00,21.867
 3,30/03/2011,20:00:00,21.175

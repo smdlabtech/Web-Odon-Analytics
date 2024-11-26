@@ -1,0 +1,63 @@
+
+Les séparateur de tous les fichiers .csv est la virgule ","
+
+
+-------------
+base_bdd.csv
+-------------
+Champs :
+	date	TempOd1	TempOd2	TempOd4	TempOd5
+
+Exemple valeurs :
+1	27/05/2011	17.334	17.6088333333333	16.508125	18.3614166666667
+
+
+-------------
+coord_geo.csv
+-------------
+Champs :
+	id_sonde	lib_sonde	lat_wgs84	lon_wgs84	x_lamb93	y_lamb93
+
+Exemple valeurs :
+1	812	Odon T1	49.00604	-0.72847	427314.24	6884897.48
+
+
+
+---------------
+coordonnees.csv
+---------------
+Champs :
+	id_sonde	lib_sonde	lat_wgs84	lon_wgs84	x_lamb93	y_lamb93
+
+Exemple valeurs :
+1	812	"Odon T1"	49.00604	-0.72847	427314.24	6884897.48
+
+
+-------------------------------
+l-reseautemprivieres-d-r28.csv
+-------------------------------
+Champs :
+id_sonde	lib_sonde	TopoOH	CdOH	reseau_perenne	lat_wgs84	lon_wgs84	x_lamb93	y_lamb93
+
+Exemple valeurs :
+103	Courtone	la Courtonne	03C0000002000845304	1	49.12436	0.33661	505618.35	6894896.11
+
+
+
+------------------------
+OdonT1 812_2011-2017.csv
+------------------------
+Champs :
+Titre de tracé : 812			
+#	Date	Heure, GMT+02:00	Temp., °C (LGR S/N: 9762812_duplicate_duplicate, SEN S/N: 9762812)
+
+Exemple valeurs :
+1	30/03/2011	16:00:00	22.537
+
+
+-----------------------------------
+Et les 3 autres ont la même structure.
+OdonT1 813_2011-2017.csv
+OdonT1 815_2011-2017.csv
+OdonT1 816_2011-2017.csv
+
